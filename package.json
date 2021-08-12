@@ -47,10 +47,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zwlccc/ionic-city-picker.git"
+    "url": "git+https://github.com/Darker1998/ionic-city-picker.git"
   },
   "keywords": [
-    "ionic4",
+    "ionic",
     "city",
     "picker",
     "city-picker"
@@ -58,7 +58,7 @@
   "author": "darker1998",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zwlccc/ionic4-city-picker/issues"
+    "url": "https://github.com/Darker1998/ionic-city-picker/issues"
   },
-  "homepage": "https://github.com/zwlccc/ionic4-city-picker#readme"
+  "homepage": "https://github.com/Darker1998/ionic-city-picker#readme"
 }
