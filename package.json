@@ -1,0 +1,64 @@
+{
+  "name": "ionic-city-picker",
+  "version": "0.0.1",
+  "description": "city picker for ionic",
+  "peerDependencies": {
+    "@angular/common": "~12.1.1",
+    "@angular/core": "~12.1.1"
+  },
+  "main": "bundles/ionic4-city-picker.umd.js",
+  "module": "fesm5/ionic4-city-picker.js",
+  "es2015": "fesm2015/ionic4-city-picker.js",
+  "esm5": "esm5/ionic4-city-picker.js",
+  "esm2015": "esm2015/ionic4-city-picker.js",
+  "fesm5": "fesm5/ionic4-city-picker.js",
+  "fesm2015": "fesm2015/ionic4-city-picker.js",
+  "typings": "ionic4-city-picker.d.ts",
+  "metadata": "ionic4-city-picker.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/architect": "^0.1202.1",
+    "@angular-devkit/build-angular": "^12.2.1",
+    "@angular-devkit/core": "^12.2.1",
+    "@angular-devkit/schematics": "^12.2.1",
+    "@angular/cli": "^12.2.1",
+    "@angular/compiler": "~12.1.1",
+    "@angular/compiler-cli": "^12.2.1",
+    "@angular/language-service": "~7.2.2",
+    "@ionic/angular-toolkit": "^4.0.0",
+    "@types/jasmine": "~2.8.8",
+    "@types/jasminewd2": "~2.0.3",
+    "@types/node": "~12.0.0",
+    "codelyzer": "~4.5.0",
+    "jasmine-core": "~2.99.1",
+    "jasmine-spec-reporter": "~4.2.1",
+    "karma": "^6.3.4",
+    "karma-chrome-launcher": "~2.2.0",
+    "karma-coverage-istanbul-reporter": "~2.0.1",
+    "karma-jasmine": "~1.1.2",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "protractor": "~5.4.0",
+    "ts-node": "~8.1.0",
+    "tslint": "~5.16.0",
+    "typescript": "~3.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwlccc/ionic-city-picker.git"
+  },
+  "keywords": [
+    "ionic4",
+    "city",
+    "picker",
+    "city-picker"
+  ],
+  "author": "darker1998",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zwlccc/ionic4-city-picker/issues"
+  },
+  "homepage": "https://github.com/zwlccc/ionic4-city-picker#readme"
+}
